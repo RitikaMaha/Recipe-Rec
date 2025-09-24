@@ -22,7 +22,7 @@ The Recipe-Recommendation project is a web application that allows users to sear
 Clone the project
 
 ```bash
-  git clone https://github.com/Sudeep-Poojary/Recipe-Recommendation.git
+https://github.com/RitikaMaha/Recipe-Rec.git
 ```
 
 
